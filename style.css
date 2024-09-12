@@ -45,7 +45,7 @@
 }
 
 form .display input {
-  text-align: left;
+  /* text-align: left; */
   box-shadow: none;
   /* flex: 1 gives an element a share of 
   the available space in a flex container. */
